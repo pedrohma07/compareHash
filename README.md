@@ -1,4 +1,4 @@
-# Ricky and Morty React
+# Compare Hash
 
 Este projeto, desenvolvido em Java com Spring, tem como objetivo encriptar e desencriptar senhas usando o algoritmo BCrypt. Ele serve como uma ferramenta de aprendizado para desenvolvedores, permitindo a prática de técnicas de segurança da informação e o uso de criptografia em aplicações web.
 
